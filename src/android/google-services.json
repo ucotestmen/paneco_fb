@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919194154736",
+    "firebase_url": "https://paneco-153412.firebaseio.com",
+    "project_id": "paneco-153412",
+    "storage_bucket": "paneco-153412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919194154736:android:38bde2472e88d4b7",
+        "android_client_info": {
+          "package_name": "com.paneco.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919194154736-pc73lia7ibideru1vu01m5pr2up2oe65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuevUwtwX__ZUD-WAbJ9IiZsuoKm-vefQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
