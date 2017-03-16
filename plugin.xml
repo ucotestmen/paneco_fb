@@ -21,10 +21,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">1:1019855927761:android:38bde2472e88d4b7</string>
+			<string name="google_app_id">1:919194154736:android:38bde2472e88d4b7</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">AIzaSyAJH39JEDzRRnOOcToaVXyJzk_JtY6qxIk</string>
+			<string name="google_api_key">AIzaSyDuevUwtwX__ZUD-WAbJ9IiZsuoKm-vefQ</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
